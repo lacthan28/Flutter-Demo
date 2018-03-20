@@ -1,6 +1,6 @@
-# flutter_demo
+# Flutter Demo App
 
-A new Flutter project.
+A new Flutter project using VS Code.
 
 ## Getting Started
 
